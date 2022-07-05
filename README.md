@@ -1,0 +1,3 @@
+- 👋 Hi, Samir AKA tr0jAn.
+- 🇲🇦 Living in 🗼.
+- 👨‍🎓  Engineering Student @ Sup Galilée
