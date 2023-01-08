@@ -1,8 +1,5 @@
-- 👋 Hi, Samir AKA tr0jAn on the radio 📻.
-- 🇲🇦 Living in Paris.
-- 👨‍🎓  Engineering Student @ Sup Galilée 💻📡.
-<h1 align="center">Hi 👋, I'm Samir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Samir aka tr0jAn/str0J</h1>
+<h3 align="center">A passionate 🇲🇦 developer from Paris & 🎓  Engineering Student @ Sup Galilée 💻📡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=str0j&label=Profile%20views&color=0e75b6&style=flat" alt="str0j" /> </p>
 
