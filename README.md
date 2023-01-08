@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samir aka tr0jAn/str0J</h1>
 <h3 align="center">A passionate 🇲🇦 developer from Paris & 🎓  Engineering Student @ Sup Galilée 💻📡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=str0j&label=Profile%20views&color=0e75b6&style=flat" alt="str0j" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=str0j" alt="str0j" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud services, currently Azure.**
 
