@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **samir@tastift.me**
 
-- 📄 Know about my experiences [from LinkedIn, or ask for my resume.](from LinkedIn, or ask for my resume.)
+- 📄 Know about my experiences [from LinkedIn, or ask for my resume.]
 
 - ⚡ Fun fact **I'm pursuing an engineering degree in Telecoms & Networking lmao.**
 
