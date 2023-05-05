@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 🇲🇦 developer from Paris & 🎓  Engineering Student @ Sup Galilée 💻📡</h3>
 
 
-- 🌱 I’m currently learning **Cloud services, currently Azure.**
+- 🌱 I’m currently learning **Cloud services, Azure.**
 
 - 👨‍💻 All of my projects are available at [tastift.me](tastift.me)
 
