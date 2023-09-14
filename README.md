@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Samir aka tr0jAn/str0J</h1>
-<h3 align="center">A passionate 🇲🇦 developer from Paris & 🎓  Engineering Student @ Sup Galilée 💻📡</h3>
+<h1 align="center">Hi 👋, I'm Samir aka tr0jAn/str0J 👨‍💻</h1>
+<h3 align="center">A passionate 🇲🇦 developer from Paris & 🎓  IT Engineering Student @ EPISEN 💻📡</h3>
 
 
 - 🌱 I’m currently learning **Cloud services, Azure.**
 
-- 👨‍💻 All of my projects are available at [tastift.me](tastift.me)
+- 👨‍💻 All of my projects are available here or at [tastift.me](tastift.me)
 
 - 📫 How to reach me **samir@tastift.me**
 
