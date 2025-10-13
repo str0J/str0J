@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a **passionate engineer** specializing in **Cloud & Data Architecture**, with a strong focus on designing **scalable, secure, and optimized solutions**. Currently working as a **Project Manager** at **SNCF Voyageurs** while completing my engineering degree at **EPISEN**. 
+I'm a **passionate engineer** specializing in **Cloud & Data Architecture**, with a strong focus on designing **scalable, secure, and optimized solutions**. Currently working as a **Project Manager** at **SNCF Voyageurs** and I am open to exploring new **opportunities**. 
 
 I integrate **eco-design principles** and **digital sobriety** to create sustainable and high-performance infrastructures. Available immediately for new opportunities!
 
@@ -27,35 +27,6 @@ I integrate **eco-design principles** and **digital sobriety** to create sustain
 📍 **Location:** Paris, France  
 🎓 **Education:** Engineering in Information Systems (EPISEN) + Telecommunications & Networks (Sup Galilée)  
 🌍 **Languages:** French (Native), English (Bilingual - TOEIC: 935), Arabic (Native), Amazigh (Native), Spanish (Basic)
-
----
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚄 SNCF Voyageurs
-**MOA Project Manager** | *Sept 2023 - Present*
-- Business requirement analysis & international project management
-- Automated testing robot development (Robot Framework + GitLab CI/CD)
-- Interactive dashboards creation (PowerBI, IBM Cognos, JasperSoft)
-- Data governance project leadership on DataGalaxy platform
-- Security implementation (Keycloak, HashiCorp Vault)
-
-</td>
-<td width="50%">
-
-### 🎭 ROBERT JULIAT
-**R&D Engineering Intern** | *May - Aug 2023*
-- LLRP protocol implementation for low-level equipment communication
-- OSC protocol integration for real-time message control
-- LUA script development for Wireshark packet analysis
-
-</td>
-</tr>
-</table>
 
 ---
 
