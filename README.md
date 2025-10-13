@@ -9,9 +9,7 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=str0j&color=blueviolet&style=flat-square&label=Profile+Views)
-[![Years Badge](https://badges.pufler.dev/years/str0j)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/str0j)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/str0j)](https://badges.pufler.dev)
+
 
 </div>
 
@@ -34,8 +32,9 @@ I integrate **eco-design principles** and **digital sobriety** to create sustain
 
 <div align="center">
 
-[![AWS Academy Data Engineering](https://img.shields.io/badge/AWS_Academy-Data_Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-badge-id)
-[![AWS Cloud Data Pipeline](https://img.shields.io/badge/AWS_Academy-Cloud_Data_Pipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+[![Apache Airflow 3 Certification](https://img.shields.io/badge/Astronomer-Apache_Airflow_3_Certification-00C851?style=for-the-badge&logo=leaf&logoColor=white)](https://www.orsys.fr)
+[![AWS Academy Data Engineering](https://img.shields.io/badge/AWS_Academy-Data_Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/ac1465bf-7073-4de7-9700-db9f3b1e9e96)
+[![AWS Cloud Data Pipeline](https://img.shields.io/badge/AWS_Academy-Cloud_Data_Pipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/ace628db-3ccc-4b70-8a78-4a513297fa0e)
 [![Eco-Design SI](https://img.shields.io/badge/ORSYS-Eco--Design_SI-00C851?style=for-the-badge&logo=leaf&logoColor=white)](https://www.orsys.fr)
 
 </div>
