@@ -121,11 +121,7 @@ I integrate **eco-design principles** and **digital sobriety** to create sustain
 
 </div>
 
-<div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=str0j&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
-</div>
 
 ---
 
@@ -183,6 +179,5 @@ print("Always learning, always building! 🚀")
 
 ---
 
-<sub>✨ This README is auto-updated with GitHub Actions • Last refresh: Dynamic</sub>
 
 </div>
