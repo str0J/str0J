@@ -1,10 +1,5 @@
 # Hi there! 👋 I'm Samir TASTIFT
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+Project+Manager;Cloud+%26+Data+Architecture+Expert;Eco-Design+Advocate;Infrastructure+Automation+Enthusiast)](https://git.io/typing-svg)
-
-</div>
 
 <div align="center">
   
